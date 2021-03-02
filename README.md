@@ -15,6 +15,7 @@ python main.py
 ```
 <br>
 ## Contact
+
 ```shell
 Discord: XlanKar#5131
 Discord Group: https://discord.gg/2XEh2nz
