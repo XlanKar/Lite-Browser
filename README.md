@@ -1,7 +1,7 @@
 # Lite-Browser
 
 ## Lite Browser V1.0.0
-<img src="https://raw.githubusercontent.com/XlanKar/Lite-Browser/main/img/litebrowserdemo.PNG">
+<img src="https://raw.githubusercontent.com/XlanKar/Lite-Browser/main/img/litebrowserdemo.png">
 <br>
 
 ## How to Run Source Code
